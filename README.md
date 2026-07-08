@@ -21,8 +21,6 @@
 
 Starting from raw listings scraped from **moteur.ma**, the project covers the entire ML lifecycle — data collection, cleaning, exploratory analysis, feature engineering, model training, evaluation, and deployment — resulting in a **production-ready web application** that delivers instant vehicle valuations.
 
-> Built as a practical academic project for the *AI Algorithms and Predictions* course — Group 10, SDBDIA2A.
-
 ---
 
 ##  Features
@@ -239,15 +237,13 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ##  Screenshots
 
-> *Replace the placeholders below with actual screenshots of your app.*
-
 | Home — Prediction Form | Dashboard — Analytics |
 |---|---|
-| `screenshots/home.png` | `screenshots/dashboard.png` |
+| `screenshots/1.png` | `screenshots/3.png` |
 
 | Architecture — Pipeline |
 |---|
-| `screenshots/about.png` |
+| `screenshots/4.png` |
 
 ---
 
@@ -266,8 +262,6 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 **SAFAA OUSSALEM**
 *juin 2026*
-
-Supervised by **Abdellah TAHIRI, Ph.D.**
 
 ---
 
