@@ -174,7 +174,7 @@ AutoValuate-MA/
 │   └── random_forest_model.joblib
 │
 ├── notebooks/                  # Jupyter notebooks
-│   └── Group_10_Practical_project_second_hand_car_price.ipynb
+│   └── used_car_price_pred.ipynb
 │
 ├── requirements.txt
 ├── README.md
