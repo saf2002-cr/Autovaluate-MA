@@ -1,0 +1,16 @@
+# Web app
+streamlit>=1.35.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Machine learning
+scikit-learn>=1.4.0
+
+# Charts
+plotly>=5.20.0
+
+# Web scraping (utils)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
